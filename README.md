@@ -1,5 +1,5 @@
 # -Munian30 
-    hi there,
+    Hi there,
 - 👋 Hi, I’m @Munian30
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
